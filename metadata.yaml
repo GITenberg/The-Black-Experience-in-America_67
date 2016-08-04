@@ -1,0 +1,24 @@
+_repo: The-Black-Experience-in-America_67
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coombs, Norman
+    birthdate: 1932
+    gutenberg_agent_id: '51'
+    url: http://www.gutenberg.org/2009/agents/51
+description: ''
+gutenberg_issued: '1993-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '67'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'African Americans -- History'
+- !lcsh 'Slavery -- United States -- History'
+- !lcc 'E151'
+- GITenberg
+title: The Black Experience in America
+url: http://www.gutenberg.org/ebooks/67
